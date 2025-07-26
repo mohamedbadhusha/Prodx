@@ -1,4 +1,5 @@
 # E-commerce Content Generation AI - Phase 1
+# Developer- Mugamathubathusha Whatsappp: +97430554490 
 
 A comprehensive AI-powered content generation system for e-commerce products, specifically designed for smartphone categories with extensible architecture for other product types.
 
