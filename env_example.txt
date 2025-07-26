@@ -1,0 +1,11 @@
+# OpenAI API Configuration
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Model Configuration
+OPENAI_MODEL=gpt-3.5-turbo
+MAX_TOKENS=500
+TEMPERATURE=0.7
+
+# Content Generation Settings
+DEFAULT_LANGUAGE=English
+DEFAULT_TONE=friendly 
